@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107818710456",
+    "project_id": "ctflutter-fe3ab",
+    "storage_bucket": "ctflutter-fe3ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107818710456:android:e9524607bf55add8724b4d",
+        "android_client_info": {
+          "package_name": "com.deven.ctflutter.ctflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107818710456-i18k4ghftbo4fqf34l0ooc0rjmt6tckb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVwiOEqajyRzrhsFZ62LrkpbcfPHQejTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107818710456-i18k4ghftbo4fqf34l0ooc0rjmt6tckb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
